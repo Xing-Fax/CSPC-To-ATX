@@ -4,8 +4,4 @@
 
 ![image (3)](CSPS%20To%20AXT%20Power/image/image(3).jpg)
 
-![image (1)](CSPS%20To%20AXT%20Power/image/image(1).jpg)
-
-![image (2)](CSPS%20To%20AXT%20Power/image/image(2).jpg)
-
 待完善...

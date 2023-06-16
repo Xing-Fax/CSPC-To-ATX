@@ -46,4 +46,4 @@ PMBus程序尚未完善，参考[Client for KCORES CSPS to ATX Converter](https:
 
 [VRP1-30E1A0G](/CSPS%20To%20AXT%20Power/manual/VRP1-30E1A0G.pdf)
 
-[PS-2751-7H-LF](/CSPS%20To%20AXT%20Power/manual/PS-2751-7H-LF 光宝750W白金电源规格书V.D.pdf)
+[PS-2751-7H-LF](/CSPS%20To%20AXT%20Power/manual/PS-2751-7H-LF%20光宝750W白金电源规格书V.D.pdf)

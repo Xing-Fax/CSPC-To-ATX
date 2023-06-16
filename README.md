@@ -4,4 +4,20 @@
 
 ![image (3)](CSPS%20To%20AXT%20Power/image/image(3).jpg)
 
+转接板使用TSP3511芯片作为电源管理芯片，并提供PSON启动时序
+
+![image (3)](CSPS%20To%20AXT%20Power/image/Seq.png)
+
+使用 VRP1-30E1A0 作为DC-DC模块，提供3.3V、5V、5Vsb电压，具备30A供电能力
+
+![image (3)](CSPS%20To%20AXT%20Power/image/30E.png)
+
+## 电路原理图预览
+
+![image (3)](CSPS%20To%20AXT%20Power/image/Main.png)
+
+![image (3)](CSPS%20To%20AXT%20Power/image/Mode.png)
+
+![image (3)](CSPS%20To%20AXT%20Power/image/TPS3511.png)
+
 待完善...

@@ -41,4 +41,9 @@ PMBus程序尚未完善，参考[Client for KCORES CSPS to ATX Converter](https:
 [转到](/CSPS%20To%20AXT%20Power/design)
 
 ## 参考文档
-待完善...
+
+[TI-TPS3511](/CSPS%20To%20AXT%20Power/TI-TPS3511.pdf)
+
+[VRP1-30E1A0G](/CSPS%20To%20AXT%20Power/VRP1-30E1A0G.pdf)
+
+[PS-2751-7H-LF](/CSPS%20To%20AXT%20Power/PS-2751-7H-LF 光宝750W白金电源规格书V.D.pdf)

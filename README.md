@@ -38,5 +38,7 @@ PMBus程序尚未完善，参考[Client for KCORES CSPS to ATX Converter](https:
 
 ## 工程文件
 
+[转到](/CSPS%20To%20AXT%20Power/design)
+
 ## 参考文档
 待完善...

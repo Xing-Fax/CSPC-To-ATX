@@ -26,7 +26,7 @@
 
 VRP1-30E1A0模块在低负载时温度会很高，所以5Vsb那一路DC-DC模块设计有缺陷，应考虑替换为其他DC-DC
 
-PMBus程序尚未完善，参考[Client for KCORES CSPS to ATX Converter](https://github.com/KCORES/kcores-link) 未来会通过单片机+屏幕+上位机实现此功能
+PMBus程序尚未完善，参考 [Client for KCORES CSPS to ATX Converter](https://github.com/KCORES/kcores-link) 未来会通过单片机+屏幕+上位机实现此功能
 
 需要自己定制模组线，ATX24Pin需要带线损补偿接口，8Pin接口并没有对CPU供电或者显卡供电做极性调换，请注意正负极
 
